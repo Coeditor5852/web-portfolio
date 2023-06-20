@@ -1,0 +1,20 @@
+@import url(https://fonts.bunny.net/css?family=aboreto:400);
+body{
+    font-family: 'Aboreto', display;
+}
+
+h1{
+    font-size: 50px;
+}
+.h1_colour{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
